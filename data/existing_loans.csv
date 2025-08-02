@@ -1,0 +1,11 @@
+existing_loan_id,customer_id,loan_type,outstanding_amount,monthly_emi
+401,1,Home Loan,250000,12500
+402,2,Education Loan,100000,5000
+403,3,Personal Loan,300000,15000
+404,4,Vehicle Loan,200000,8000
+405,5,Home Loan,150000,7000
+406,6,Credit Card,50000,2500
+407,7,Business Loan,400000,20000
+408,8,Personal Loan,100000,5000
+409,9,Education Loan,80000,4000
+410,10,Vehicle Loan,120000,6000

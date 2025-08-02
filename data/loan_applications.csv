@@ -1,0 +1,13 @@
+loan_id,customer_id,loan_amount,loan_purpose,application_date,status
+201,1,500000,Home Renovation,2023-01-10,Approved
+202,2,250000,Medical Expenses,2023-02-15,Pending
+203,3,1000000,New House,2023-03-12,Rejected
+204,4,300000,Education,2023-04-01,Approved
+205,5,150000,Business Expansion,2023-05-20,Pending
+206,6,200000,Debt Consolidation,2023-06-18,Approved
+207,7,750000,Wedding,2023-07-22,Pending
+208,8,120000,Travel,2023-08-30,Rejected
+209,9,600000,Vehicle Purchase,2023-09-05,Approved
+210,10,400000,Emergency Fund,2023-10-10,Pending
+211,1,50000,Home Loan,2025-08-02,Pending
+212,11,500000,Car Loan,2025-08-02,Approved

@@ -1,0 +1,11 @@
+income_id,customer_id,employer_name,monthly_income,employment_type
+301,1,Infosys,75000,employed
+302,2,Wipro,62000,employed
+303,3,HCL,88000,employed
+304,4,Self-Employed,50000,Self-Employed
+305,5,TCS,67000,employed
+306,6,Freelancer,45000,Freelance
+307,7,Amazon,90000,employed
+308,8,Microsoft,110000,employed
+309,9,Startup Founder,35000,Entrepreneur
+310,10,Capgemini,78000,employed
